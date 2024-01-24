@@ -4,4 +4,4 @@ Texty is a utility that can be used to manipulate the text in the way you want. 
 
 ## Tech used
 
-React + Bootstrap
+React + Bootstrap.
