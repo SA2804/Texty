@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/Texty/static/css/main.31d6cfe0.css",
+    "main.js": "/Texty/static/js/main.9b683095.js",
+    "index.html": "/Texty/index.html",
+    "main.9b683095.js.map": "/Texty/static/js/main.9b683095.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.9b683095.js"
+  ]
+}
